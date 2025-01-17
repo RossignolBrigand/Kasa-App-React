@@ -1,19 +1,17 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import './_card-gallery.scss'
+import "./_card-gallery.scss";
 
 function CardGallery({ children }) {
-
-    return (
-        <div className="cards-gallery">
-            {children}
-        </div>
-    )
+	return <div className="cards-gallery">{children}</div>;
 }
 
 CardGallery.propTypes = {
-    children: PropTypes.array
-}
+	children: PropTypes.oneOfType([
+		PropTypes.arrayOf(PropTypes.node),
+		PropTypes.node,
+	]),
+};
 
 export default CardGallery;
