@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/OpenClassrooms_Projet_05/static/css/main.b5429e64.css",
-    "main.js": "/OpenClassrooms_Projet_05/static/js/main.76c012d0.js",
-    "static/js/453.2a8a82c4.chunk.js": "/OpenClassrooms_Projet_05/static/js/453.2a8a82c4.chunk.js",
-    "static/media/Cover2.png": "/OpenClassrooms_Projet_05/static/media/Cover2.150ac7164d54fa4583a9.png",
-    "static/media/Cover1.png": "/OpenClassrooms_Projet_05/static/media/Cover1.47fae6981e58c8d3b05a.png",
-    "index.html": "/OpenClassrooms_Projet_05/index.html",
-    "main.b5429e64.css.map": "/OpenClassrooms_Projet_05/static/css/main.b5429e64.css.map",
-    "main.76c012d0.js.map": "/OpenClassrooms_Projet_05/static/js/main.76c012d0.js.map",
-    "453.2a8a82c4.chunk.js.map": "/OpenClassrooms_Projet_05/static/js/453.2a8a82c4.chunk.js.map"
+    "main.css": "/Kasa-App-React/static/css/main.b52ef31f.css",
+    "main.js": "/Kasa-App-React/static/js/main.f2f8bcfa.js",
+    "static/media/Cover2.webp": "/Kasa-App-React/static/media/Cover2.fb2dce5865d010a6bd49.webp",
+    "static/media/Cover1.webp": "/Kasa-App-React/static/media/Cover1.10c16709a4e6df11b36b.webp",
+    "index.html": "/Kasa-App-React/index.html",
+    "main.b52ef31f.css.map": "/Kasa-App-React/static/css/main.b52ef31f.css.map",
+    "main.f2f8bcfa.js.map": "/Kasa-App-React/static/js/main.f2f8bcfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5429e64.css",
-    "static/js/main.76c012d0.js"
+    "static/css/main.b52ef31f.css",
+    "static/js/main.f2f8bcfa.js"
   ]
 }
