@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/Kasa-React-App/static/css/main.b5429e64.css",
-    "main.js": "/Kasa-React-App/static/js/main.b5a25d64.js",
-    "static/js/453.2a8a82c4.chunk.js": "/Kasa-React-App/static/js/453.2a8a82c4.chunk.js",
-    "static/media/Cover2.webp": "/Kasa-React-App/static/media/Cover2.b05a70b95ca09922afc5.webp",
-    "static/media/Cover1.webp": "/Kasa-React-App/static/media/Cover1.c6d963642af53c9d946a.webp",
-    "index.html": "/Kasa-React-App/index.html",
-    "main.b5429e64.css.map": "/Kasa-React-App/static/css/main.b5429e64.css.map",
-    "main.b5a25d64.js.map": "/Kasa-React-App/static/js/main.b5a25d64.js.map",
-    "453.2a8a82c4.chunk.js.map": "/Kasa-React-App/static/js/453.2a8a82c4.chunk.js.map"
+    "main.css": "/Kasa-App-React/static/css/main.b5429e64.css",
+    "main.js": "/Kasa-App-React/static/js/main.28cc06b0.js",
+    "static/media/Cover2.webp": "/Kasa-App-React/static/media/Cover2.b05a70b95ca09922afc5.webp",
+    "static/media/Cover1.webp": "/Kasa-App-React/static/media/Cover1.c6d963642af53c9d946a.webp",
+    "index.html": "/Kasa-App-React/index.html",
+    "main.b5429e64.css.map": "/Kasa-App-React/static/css/main.b5429e64.css.map",
+    "main.28cc06b0.js.map": "/Kasa-App-React/static/js/main.28cc06b0.js.map"
   },
   "entrypoints": [
     "static/css/main.b5429e64.css",
-    "static/js/main.b5a25d64.js"
+    "static/js/main.28cc06b0.js"
   ]
 }
